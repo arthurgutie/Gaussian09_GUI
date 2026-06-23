@@ -1,0 +1,14 @@
+# Environnements Python
+__pycache__/
+*.pyc
+
+# Dossiers de compilation PyInstaller
+build/
+dist/
+*.spec
+
+# Dossier de cache de ton application
+config/
+
+# Dossier de sortie de Gaussian
+Output/
